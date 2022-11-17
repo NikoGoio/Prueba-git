@@ -4,6 +4,8 @@ body
     text-align: center;
     font-family: arial;
 }
-#canvas {
-    size: 100, 100;
+#subparrafo{
+    color: blueviolet;
+    size: 40px;
+    text-align:end
 }
