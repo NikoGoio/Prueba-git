@@ -4,8 +4,17 @@ body
     text-align: center;
     font-family: arial;
 }
+<<<<<<< HEAD
 #subparrafo{
     color: blueviolet;
     size: 40px;
     text-align:end
+=======
+#canvas {
+    size: 1000, 100;
+}
+#titulo {
+    color: pink;
+    text-align: left
+>>>>>>> cabecera
 }
