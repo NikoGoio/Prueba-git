@@ -1,9 +1,9 @@
 body
 {
-    color: blue;
+    color: rgb(0, 104, 0);
     text-align: center;
     font-family: arial;
 }
-#cabecera{
-    color: green
+#canvas {
+    size: 100, 100;
 }
