@@ -3,9 +3,31 @@ body
     color: rgb(0, 104, 0);
     text-align: center;
     font-family: arial;
+    
+}
+#titulo{
+    color:#CF0A0A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:bold;
+    font-size: 50px;
+    background-color: #031D2B;
+    margin:0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    text-align: left;
+}
+#subtitulo{
+    color: #2a0606;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:caption;
+    font-size:40px;
 }
 #subparrafo{
-    color: blueviolet;
-    size: 40px;
-    text-align:end
+    color: rgb(56, 56, 56);
+    size: 45px;
+    text-align:left;
+    margin:0ch;
+    font-size:30px;
 }
